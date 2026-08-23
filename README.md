@@ -52,4 +52,4 @@ Vim da área de **Suporte** (lá aprendi a resolver pepinos e entender a dor do 
 ---
 
 ### 📊 Estatísticas:
-![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=ThevidSoz&show_icons=true&theme=radial)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThevidSoz&show_icons=true&theme=dracula)
