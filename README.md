@@ -46,7 +46,7 @@ Vim da área de **Suporte** (lá aprendi a resolver pepinos e entender a dor do 
 ---
 
 ### 🕹️ Além da tela de código:
-- ⚽ **Torcedor fanático:** Vamos meu Tricolor! 🔴⚪⚫
+- ⚽ **Clube da Fé:** Campeão de Tudo! 🔴⚪⚫
 - 🎯 **No lobby:** Se não estou estudando ou codando, provavelmente estou num **Vavas (Valorant)** tentando perder o clutch.
 
 ---
